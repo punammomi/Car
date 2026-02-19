@@ -35,3 +35,9 @@ console.log(labsCompleted)
 let username="And its you."
 let variable ="I am doing my own work. I donot need anyone without one's help."
 console.log(variable+username)
+
+let message="How are you doing?"
+let username1="Susan"
+
+let greeting=message+" "+username1
+console.log(greeting)
