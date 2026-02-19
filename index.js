@@ -53,3 +53,6 @@ console.log(4+9)
 console.log("10"+"13")
 console.log("78"+21)
 console.log(3000+"1000")
+
+let wish="I'd like to watch \"The Harry Potter\" movie."
+console.log(wish)
