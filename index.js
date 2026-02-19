@@ -41,3 +41,9 @@ let username1="Susan"
 
 let greeting=message+" "+username1
 console.log(greeting)
+
+let variable1="Punam."
+let greeting1="Hi,my name is Susan."
+
+let mygreeting=variable1+greeting1
+console.log(mygreeting)
