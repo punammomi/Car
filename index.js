@@ -20,12 +20,14 @@ let lab3=56
     loglabTime()
    
    
-let labsCompleted=0
+let 
+labsCompleted=0
     function loglabCompletedTime(){
         labsCompleted=labsCompleted+1
-        console.log(labsCompleted)
     }
 
 loglabCompletedTime()
 loglabCompletedTime()
 loglabCompletedTime()
+
+console.log(labsCompleted)
