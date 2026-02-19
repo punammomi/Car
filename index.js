@@ -31,3 +31,7 @@ loglabCompletedTime()
 loglabCompletedTime()
 
 console.log(labsCompleted)
+
+let username="And its you."
+let variable ="I am doing my own work. I donot need anyone without one's help."
+console.log(variable+username)
