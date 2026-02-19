@@ -47,3 +47,9 @@ let greeting1="Hi,my name is Susan."
 
 let mygreeting=variable1+greeting1
 console.log(mygreeting)
+
+
+console.log(4+9)
+console.log("10"+"13")
+console.log("78"+21)
+console.log(3000+"1000")
