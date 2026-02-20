@@ -62,3 +62,12 @@ let lastname="Chakraborty"
 
 fullname = firstname+" "+ lastname
 console.log(fullname)
+
+let name1="Sajib"
+let greeting4  = "Hi there!"
+
+function there(){
+    console.log(greeting4 + " " + name1)
+}
+
+there()
