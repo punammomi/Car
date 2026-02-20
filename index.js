@@ -71,3 +71,27 @@ function there(){
 }
 
 there()
+
+let myPoints = 3
+
+function addPoints(){
+    myPoints += 3
+
+}
+
+function removePoints(){
+    myPoints -= 1
+
+}
+
+addPoints()
+addPoints()
+addPoints()
+
+console.log("Add points: ",myPoints)
+
+removePoints()
+removePoints()
+removePoints()
+
+console.log("Remove points:",myPoints)
