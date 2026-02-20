@@ -56,3 +56,9 @@ console.log(3000+"1000")
 
 let wish="I'd like to watch \"The Harry Potter\" movie."
 console.log(wish)
+
+let firstname="Punam"
+let lastname="Chakraborty"
+
+fullname = firstname+" "+ lastname
+console.log(fullname)
